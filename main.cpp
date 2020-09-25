@@ -3,7 +3,7 @@
 int main(){
     std::string nombre, apellido;
     unsigned int edad;
-    // std::cout << "Hola mundo" << std::endl;
+    std::cout << "Hola mundo" << std::endl;
     std::cout << "Nombre: ";
     getline(std::cin, nombre);
     std::cout << "Apellido: ";
